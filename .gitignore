@@ -1,6 +1,13 @@
 node_modules/
 dist/
 .npm-cache/
+.vendor/
+extracted_media/
+out/
+ppt_media_summary.txt
+__pycache__/
+*.pyc
+*.pptx
 
 .DS_Store
 Thumbs.db
